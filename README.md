@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there! 👋
 
 All of my repositories on Github at this point are private, so there isn't much to see here.
 
